@@ -1,2 +1,2 @@
 # lpm
-NDNLink longest prefix match (LPM)
+NDNLink's longest prefix match (LPM)
